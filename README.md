@@ -1,8 +1,3 @@
-Great question — currently, **your repo doesn’t have a proper `README.md` file**, which is why nothing shows up at the bottom of the GitHub page and why it's blank on mobile.
-
-Let’s fix that right now.
-
----
 
 ## 📄 Here’s a Starter `README.md` You Can Use
 
